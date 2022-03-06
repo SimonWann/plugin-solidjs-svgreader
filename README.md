@@ -1,0 +1,1 @@
+a rollup plugin for read svg file.
